@@ -5,3 +5,4 @@ from datetime import datetime
 from FraugClassificationNN import FraugClassificationNN
 
 n = FraugClassificationNN()
+
